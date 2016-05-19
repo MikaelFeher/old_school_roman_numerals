@@ -47,8 +47,8 @@ def old_school_roman_numerals(num)
       print roman
     end
     puts ''
-    puts ''
 end
+
 
 
 old_school_roman_numerals num
